@@ -13,7 +13,7 @@ Scoring system
 Level progression
 Line clearing
 Rotation of tetrominos
-User input handling (left, right, down, rotate)
+User input handling (left, right, down, rotate) 
 How to Play:
 
 Compile the game using gcc tetris.c -o tetris -lncurses
